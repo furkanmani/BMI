@@ -14,7 +14,7 @@ int main()
   gjatesia_m=gjatesia/100;
   BMI=pesha/(gjatesia_m*gjatesia_m);
 
-  cout<<"Mirsesevini "<<mbiemri<< " "<<emri<< " Pesha juaj eshte :"<<pesha<<"kg"<< " Gjatesia juaj eshte:"<<gjatesia<< "cm ," << "dhe BMI indexi juaj eshte:"<<BMI;
+  cout<<"Miresevini "<<mbiemri<< " "<<emri<< " pesha juaj eshte :"<<pesha<<"kg"<< " Gjatesia juaj eshte:"<<gjatesia<< "cm ," << "dhe BMI indexi juaj eshte:"<<BMI;
 
 return 0;
 
